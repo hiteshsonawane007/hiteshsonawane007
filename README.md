@@ -1,4 +1,5 @@
 ## Hi there 👋, Welcome to Hitesh's GitHub page!
+As a seasoned Data Cloud Consultant and Backend developer, I specialize in designing and developing robust solutions that drive business efficiency. With extensive experience in API integration, ETL processes, real-time event streaming, and containerization
 
 - 🔭 I’m currently working on ...
     - Data Structures and Algorithms
