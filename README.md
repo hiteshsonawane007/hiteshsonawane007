@@ -1,15 +1,5 @@
 ## Hi there 👋, Welcome to Hitesh's GitHub page!
 
-As a seasoned Data Cloud Consultant and Backend developer, I specialize in designing and developing robust solutions that drive business efficiency. With extensive experience in API integration, ETL processes, real-time event streaming, and containerization, I leverage advanced technologies like Terraform, Kafka, Docker, and Kubernetes to deliver high-quality, data-driven solutions.
-
-My technical expertise spans Java, Python, AWS, Azure, GCP and DevOps methodologies. I excel in creating cloud-agnostic solutions, automating data ingestion, and implementing CI/CD practices. My background in data engineering and integration has equipped me with the skills to develop and maintain seamless data operations.
-
-Strong Experience with IaC development using Terraform, Github actions, Azure biceps and Azure DevOps.
-
-In addition to my technical prowess, I possess strong leadership experience, having successfully led cross-functional teams to deliver impactful data solutions. I am passionate about utilizing my skills to empower organizations to make informed decisions and drive business success.
-
-Outside of work, I enjoy reading inspirational materials, maintaining a healthy lifestyle, traveling, and trading in Indian markets.
-
 - 🔭 I’m currently working on ...
     - Data Structures and Algorithms
     - CICD Automation
