@@ -11,7 +11,7 @@ In addition to my technical prowess, I possess strong leadership experience, hav
 Outside of work, I enjoy reading inspirational materials, maintaining a healthy lifestyle, traveling, and trading in Indian markets.
 
 - 🔭 I’m currently working on ...
-  Data Structures and Algorithms
+- Data Structures and Algorithms
   CICD Automation
   AI Use Cases
 - 📫 How to reach me: ...
