@@ -22,7 +22,7 @@ Outside of work, I enjoy reading inspirational materials, maintaining a healthy 
     - Certifications? I’ve got them! From Terraform to AWS Developer Associate, and more.
   
 - 🛠️ My Toolbox:
-    -   **- Languages & Frameworks:** Python, Java, Django, Flask, Spring Boot, Spring MVC, Typescrip, Unix Shell Scripting
+    **- Languages & Frameworks:** Python, Java, Django, Flask, Spring Boot, Spring MVC, Typescrip, Unix Shell Scripting
     **- Cloud:** AWS, Azure, GCP, Salesforce APIs
     **- Data & DevOps:** Pandas, Pyspark, Kafka, Databricks, Redshift, Docker, ELK Stack, Dataiku
     **- Data Warehouse:** AWS Redshift, Hive, AWS Glue, ADF, Presto
