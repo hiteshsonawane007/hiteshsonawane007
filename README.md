@@ -28,9 +28,21 @@ As a seasoned Data Cloud Consultant and Backend developer, I specialize in desig
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hiteshsonawane007&style=flat-square)
 
-## GitHub Stats                                                                                                                                  ## My Top Languages
+## GitHub Stats                                                                                                                                 
 
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshsonawane007&show_icons=true&theme=github)                     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=compact)
+![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshsonawane007&show_icons=true&theme=github)
 
+ ## My Top Languages
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=compact)
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=hiteshsonawane007&show_icons=true&theme=github" alt="Hitesh's GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=default&langs_count=20&theme=github" alt="Programming Languages Used!" />
+    </td>
+  </tr>
+</table>
 
