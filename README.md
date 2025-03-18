@@ -25,15 +25,7 @@ As a seasoned Data Cloud Consultant and Backend developer, I specialize in desig
     - AI: ChatGPT 3.5
 
 ## Profile Views
-
 ![Profile Views](https://komarev.com/ghpvc/?username=hiteshsonawane007&style=flat-square)
-
-## GitHub Stats                                                                                                                                 
-
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiteshsonawane007&show_icons=true&theme=github)
-
- ## My Top Languages
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=compact)
 
 <table>
   <tr>
