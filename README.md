@@ -23,3 +23,7 @@ As a seasoned Data Cloud Consultant and Backend developer, I specialize in desig
     - Build Tool: Maven
     - Containers: ECS, K8S on GCP
     - AI: ChatGPT 3.5
+
+## My Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=compact)
