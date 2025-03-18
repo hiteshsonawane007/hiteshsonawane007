@@ -41,7 +41,7 @@ As a seasoned Data Cloud Consultant and Backend developer, I specialize in desig
       <img src="https://github-readme-stats.vercel.app/api?username=hiteshsonawane007&show_icons=true&theme=github" alt="Hitesh's GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=default&langs_count=20&theme=github" alt="Programming Languages Used!" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshsonawane007&layout=compact" alt="Programming Languages Used!" />
     </td>
   </tr>
 </table>
